@@ -1,15 +1,19 @@
 in this tutorial you will learn
-how to upload images with php mysql javascript with many features to use in your  :
--- Upload File / Multiple Files
--- Drag And drop File / Multiple Files
--- Show Preview
--- Save To Database
--- Load Files from database
--- Delete File
--- Download File
--- Add Max File Size Validation
--- Add Max File Count Validation
--- Add File Type Validation
+how to upload images with php mysql javascript with many features to use in your project  :
+
+## Main Features
+
+1. Upload File / Multiple Files
+2. Drag And drop File / Multiple Files
+3. Show Preview
+4. Save To Database
+5. Load Files from database
+6.Delete File
+7.Download File
+8.Add Max File Size Validation
+9.Add Max File Count Validation
+10.Add File Type Validation
+
 all this with a simple easy to follow code
 ---
 
